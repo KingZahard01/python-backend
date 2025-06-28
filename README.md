@@ -11,18 +11,13 @@
 - Funciones, módulos y paquetes
 - Estructuras de datos: listas, diccionarios, sets, tuplas
 
-#### 📘 Recursos:
-
-- [Python para Principiantes – YouTube (Píldoras Informáticas)](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B)
-- [Python Crash Course – Libro recomendado](https://nostarch.com/pythoncrashcourse2e)
-
 #### 💡 Proyecto sugerido:
 
 - **Gestor de tareas CLI**: Agregar, editar, eliminar y listar tareas con prioridad y estado.
 
 #### ✅ GitHub:
 
-- Repo: `python-basics` con ejercicios y tu proyecto.
+- Repo: `python-backend/basics` con ejercicios y tu proyecto.
 
 ---
 
@@ -44,7 +39,7 @@
 
 #### ✅ GitHub:
 
-- Repo: `python-oop-projects` y documentación del diseño del programa.
+- Repo: `python-backend/oop` y documentación del diseño del programa.
 
 ---
 
@@ -71,7 +66,7 @@
 
 #### ✅ GitHub:
 
-- Repo: `fastapi-products-api` con documentación de rutas, base de datos y pruebas con curl o Postman.
+- Repo: `python-backend/api` con documentación de rutas, base de datos y pruebas con curl o Postman.
 
 ---
 
@@ -94,7 +89,7 @@
 
 #### ✅ GitHub:
 
-- Repo: `fastapi-auth-jwt` con tests, tokens y protección por roles.
+- Repo: `python-backend/auth` con tests, tokens y protección por roles.
 
 ---
 
@@ -123,9 +118,11 @@
 
 1. Un repo por cada etapa/proyecto:
 
-   - `python-basics`
-   - `fastapi-auth-jwt`
-   - `fastapi-docker-deploy`
+   - `basics`
+   - `oop`
+   - `api`
+   - `auth`
+   - `deploy`
 
 2. README.md con:
 
@@ -135,7 +132,7 @@
 
 3. Diario de aprendizaje:
 
-   - Repo: `backend-roadmap-python`
+   - Repo: `python-backend`
    - Cada semana, un archivo o entrada en el README tipo:
 
 ```markdown
