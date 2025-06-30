@@ -11,6 +11,11 @@
 - Funciones, módulos y paquetes
 - Estructuras de datos: listas, diccionarios, sets, tuplas
 
+#### 📘 Recursos:
+
+- [Python Básico – MoureDev](https://www.youtube.com/watch?v=Kp4Mvapo5kc) (gratuito)
+- [Hello-Python – MoureDev](https://github.com/mouredev/Hello-Python) (github)
+
 #### 💡 Proyecto sugerido:
 
 - **Gestor de tareas CLI**: Agregar, editar, eliminar y listar tareas con prioridad y estado.
