@@ -38,13 +38,17 @@
 - List comprehensions y funciones lambda
 - Entornos virtuales (`venv`, `pip`, `requirements.txt`)
 
+#### 📘 Recursos:
+
+- [POO desde cero – Soy Dalto](https://www.youtube.com/watch?v=HtKqSJX7VoM) (gratuito)
+
 #### 💡 Proyecto sugerido:
 
 - **Sistema de gestión de biblioteca**: usuarios, libros, préstamos.
 
 #### ✅ GitHub:
 
-- Repo: `python-backend/oop` y documentación del diseño del programa.
+- Repo: `python-backend/poo` y documentación del diseño del programa.
 
 ---
 
